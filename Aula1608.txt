@@ -1,0 +1,7 @@
+Aula 16/08
+
+Aprendizado de maquina, explicação dos conceitos.
+Tarefas de preditivas, usando exemplos praticos.
+Explicação do codigo em python, passo a passo.
+Explicação do trabalho a ser entregue na proxima aula, o case 01.
+Disponibilização da base de marketing e o codigo.

@@ -1,0 +1,6 @@
+Resumo Aula 09/08
+
+- Regressão Linear - Explicação da formula e como funciona, conceito. Um conjunto de dados de entrada que tenta traçar variações futuras.
+- Regressão Logistica - Semelhante a regressao linear
+- Arvores de decisões - Estrutura em arvore que é composto em quebras de estrutura recursivos. Geralmente inicia com um nó, e vai quebrando hierarquicamente.
+- Modelos de testes - Aplicado encima da arvore de decisão
